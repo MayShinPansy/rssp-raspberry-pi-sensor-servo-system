@@ -80,7 +80,7 @@ python src/main.py
 
 Due to GitHub file size limitations, the demo video is hosted externally:
 
-👉 **[Watch Demo Video](PASTE_YOUR_VIDEO_LINK_HERE)**
+👉 **[Watch Demo Video](https://drive.google.com/file/d/1I8NiMnWdsuQzPf3dEckR7fr4z8Nbkeok/view?usp=sharing)
 
 ---
 
